@@ -1,0 +1,24 @@
+main {
+  display: flex;
+  justify-content: center;
+}
+
+#main-div {
+  background-color: grey;
+  width: 50vw;
+  height: 50vh;
+  border-radius: 10px;
+  margin-top: 20vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+}
+p {
+  color: white;
+  font-size: 5em;
+  text-align: center;
+  padding-top: 10vh;
+  margin-left: auto;
+  margin-right: auto;
+}
